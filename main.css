@@ -1,0 +1,48 @@
+nav{
+	margin-bottom: 0px;
+	position: fixed !important;
+	z-index: 1;
+	width: 100%;
+}
+
+img{
+position:relative;
+    top: -21px;
+    left: 169px;
+    height: 30%;
+}
+.roow{
+	position: relative;
+	top: -21px;
+	margin-left: 169px;
+	margin-right: 193px;
+	background-color: #55FF2A; 
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.roww{
+	position: relative;
+	top: -21px; /*wspolne dla roow i roow 4 wiesze */
+	margin-left: 169px;
+	margin-right: 193px;
+	background-color:#D4FF55; 
+	
+}
+ .roww img {
+ 	width: 50%;
+ 	position: relative;
+ 	    top: 7px;
+ }
+.bart{
+	    margin-left: 265px;
+    margin-top: 11px;
+}
+footer{
+	position: relative;
+	top: -21px;/*wspólne 4 w*/
+	margin-left: 169px;
+	margin-right: 193px;
+	background-color: #A5A5A5;
+}
